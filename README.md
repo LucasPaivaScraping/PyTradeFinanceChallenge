@@ -51,6 +51,7 @@ python main.py -T DOEne21 -u <USER> -p <PASSWORD>
 
 ## Author
 
-###Lucas Paiva### 
+### Lucas Paiva
+
 * [github](https://github.com/noctilukkas) 
 * [linkedin](https://www.linkedin.com/in/lpaiva/)
