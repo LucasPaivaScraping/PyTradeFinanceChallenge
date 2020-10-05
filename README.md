@@ -7,8 +7,7 @@ Clonar el repositorio en carpeta local
 ```
 git clone git@github.com:noctilukkas/PyTradeFinanceChallenge.git
 ```
-*Note:
-This app was developed and tested on Mac OS (Darwin)
+*Nota:
 Esta app fue desarrollado y testeado en Mac OS (Darwin)
 
 ### Setup and settings
@@ -16,11 +15,11 @@ Crear entorno virtual con virtualenv y python 3 (se puede usar pipenv, pyenv, vi
 
 En terminal
 ```
-virtualenv env
+virtualenv venv
 ```
 o directorio oculto
 ```
-virtualenv .env
+virtualenv .venv
 ```
 
 Activar entorno virtual con virtualenv 
@@ -52,6 +51,6 @@ python main.py -T DOEne21 -u <USER> -p <PASSWORD>
 
 ## Author
 
-* **Lucas Paiva** 
+###Lucas Paiva### 
 * [github](https://github.com/noctilukkas) 
 * [linkedin](https://www.linkedin.com/in/lpaiva/)
